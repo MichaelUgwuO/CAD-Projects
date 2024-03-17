@@ -16,9 +16,4 @@ This repository contains SolidWorks files for a pipe vice design, showcasing CAD
 - Application of mechanical engineering design principles.
 - Production of detailed design documentation.
 
-## Acknowledgments
-
-Completed as part of the [University Name]'s curriculum, this project underlines the practical application of CAD tools in engineering design.
-
-**Author:** [Your Name]  
-**Date:** [Submission Date]
+**Author:** Me 
